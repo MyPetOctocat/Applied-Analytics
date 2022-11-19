@@ -29,3 +29,10 @@ As anticipated, one of the most time consuming aspects in this project was the d
 Implementing a ML algorithm is one thing, but extracting meaning out of them is another huge task, especially if the data seem to be relatively 'all over the place' like this craigslist dataset. This became especially apparent in with clustering. Even looking at the dataclouds visually one could see that the relationship between all data points are very complex.
 
 Nevertheless, this project was despite its hurdles a big learning experience in how to work with data that seems unusable at first glance. And in the end there was some very interesting insight to be had. 
+
+## Pictures
+
+![Analytics_Regression](https://user-images.githubusercontent.com/61428610/202825193-88e71a8a-3bb6-401f-9362-2215c17955d0.png)
+![Analytics_Clustering_2](https://user-images.githubusercontent.com/61428610/202825028-740a0169-1eb9-4c6a-8a97-1633d8c4316b.png)
+![Analytics_Classification_2](https://user-images.githubusercontent.com/61428610/202825201-ac78fac1-9c15-40a6-a822-a562f952ae19.png)
+
